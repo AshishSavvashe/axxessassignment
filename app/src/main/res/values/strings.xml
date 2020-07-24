@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="search_hint">Search</string>
+    <string name="str_please_wait">"Loading "</string>
+    <string name="no_internet">No Internet Available</string>
+    <string name="api_error">Api Error Occurred</string>
+    <string name="enter_comment">Enter Comment</string>
+    <string name="submit">Submit</string>
+    <string name="datanotfound">Record Not Found</string>
+</resources>
